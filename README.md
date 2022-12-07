@@ -1,0 +1,2 @@
+# testnet-dusk
+testnet dusk
